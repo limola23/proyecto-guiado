@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-pink {
+    background-color: #92b6b1;
+}
+
+.bg-light-green {
+    background-color: #b2c9ab;
+}
+
+.border-yellow {
+    background-color: #e8ddb5;
+}
+
+.profile-image {
+    background-image: url(img/hannah-reding-Km84r00_KMQ-unsplash.jpg);
+    background-size: cover;
+    width: 15rem;
+    height: 15rem;
+}
+
+.let-spac-3 {
+    letter-spacing: 7rem;
+}
